@@ -1,0 +1,11 @@
+{
+  "name": "jenkins-webapp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "ISC",
+  "scripts": {
+    "test": "jest",
+    "build": "echo 'Building app...'"
+  }
+}
+
