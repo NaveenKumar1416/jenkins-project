@@ -1,4 +1,5 @@
 Naveen automated ci-cd pipeline project
+
 This project shows how to use Jenkins to automatically build, test, and package a web application whenever code is pushed to GitHub.
 It helps developers check that the latest code is always working and ready to deploy.
 
